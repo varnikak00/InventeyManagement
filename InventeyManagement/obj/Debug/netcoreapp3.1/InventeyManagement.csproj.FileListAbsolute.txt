@@ -1,0 +1,5 @@
+D:\InvetoryManagement\InventeyManagement\obj\Debug\netcoreapp3.1\InventeyManagement.csproj.AssemblyReference.cache
+D:\InvetoryManagement\InventeyManagement\obj\Debug\netcoreapp3.1\InventeyManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\InvetoryManagement\InventeyManagement\obj\Debug\netcoreapp3.1\InventeyManagement.AssemblyInfoInputs.cache
+D:\InvetoryManagement\InventeyManagement\obj\Debug\netcoreapp3.1\InventeyManagement.AssemblyInfo.cs
+D:\InvetoryManagement\InventeyManagement\obj\Debug\netcoreapp3.1\InventeyManagement.csproj.CoreCompileInputs.cache
